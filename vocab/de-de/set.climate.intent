@@ -1,5 +1,1 @@
-Setze die {entity} auf {temp} Grad
-Setze die {entity} Temperatur auf {temp} Grad
-Setze die {entity} Temperatur auf {temp} Grad
-Setze {entity} auf {temp} Grad
-Setze {entity] Temperatur auf {temp} Grad
+(Setze|Stelle) (die |){entity} (Temperatur |)auf {temp} Grad
